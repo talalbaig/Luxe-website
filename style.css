@@ -183,11 +183,9 @@ color: #fbbf24;
   box-sizing: border-box;
 }
 
-.zero-gap-below {
-  margin-left: -20px; /* Must perfectly match the row-gap value */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+.ml-20 {
+  margin-left: -20px;
+
 }
 
 .page2-container > .box {
